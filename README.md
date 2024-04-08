@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning WPF & MAUI
 - 📫 How to reach me (Currently nothing 😁)
 - ❤️ If my tool helped you. Don't forget to donate
-- &nbsp;![TetherEmoji](https://github.com/Benyamin-Karimi/Benyamin-Karimi/assets/138729740/c77a2411-0478-4bea-ae5e-f0eb53612048) ``TRvWxysRrqXLErU8smcF4zCYj3rqEcPT3y``
+- &nbsp;![TetherEmoji](https://github.com/Benyamin-Karimi/Benyamin-Karimi/assets/138729740/c77a2411-0478-4bea-ae5e-f0eb53612048) ``None``
 - #### Quick download of my projects (Executable file):
   - Proxy Manager (developing 🛠️)
   
